@@ -93,6 +93,9 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [William Schuler](https://www.asc.ohio-state.edu/schuler.77/) - psycholinguistics; neurolinguistics; syntactic parsing and acquisition
 - [Michael White](https://u.osu.edu/white.1240/) - spoken dialogue systems; language generation; categorial grammars
 
+**[University of Oregon](https://humanities.uoregon.edu/linguistics)**, Eugene, OR [Ph.D. Linguistics]
+- [Nika Jurov](https://n-ika.github.io/) - computational psycholinguistics, speech perception, cognitive modeling
+
 **[Rutgers University](https://ling.rutgers.edu)**, New Brunswick, NJ [Ph.D. Linguistics]
 
 - [Adam Jardine](https://adamjardine.net/) - computational phonology, formal language theory, learning/grammatical inference
